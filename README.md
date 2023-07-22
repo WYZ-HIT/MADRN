@@ -31,8 +31,11 @@ If you use these models in your research, please cite:
 ```
 
 ### Overview of network
+
+![The architecture of MADRN.](architecture.png)
+
 <div align="center">
-  <img src="https://github.com/WYZ-HIT/MADRN/tree/main/figures/architecture.png" width="900px">
+  <img src="https://github.com/WYZ-HIT/MADRN/tree/main/figures/architecture.png" width="300">
 </div>
 <p align="center">
   Figure 1: The architecture of MADRN.
