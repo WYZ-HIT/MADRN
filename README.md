@@ -11,7 +11,7 @@ By Yizhen Wang.
 
 ### Introduction
 
-This is a PyTorch implementation of [A Deep Neural Network Based Method for Magnetic Anomaly Detection](https://doi.org/10.1049/smt2.12084). with datasets and pretrained models. 
+This is a Keras implementation of [A Deep Neural Network Based Method for Magnetic Anomaly Detection](https://doi.org/10.1049/smt2.12084). with datasets and pretrained models. 
 
 ### Citation
 
