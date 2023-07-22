@@ -17,6 +17,7 @@ This is a PyTorch implementation of [A Deep Neural Network Based Method for Magn
 
 If you use these models in your research, please cite:
 
+```latex
 @article{wang2022deep,
   title={A deep neural network based method for magnetic anomaly detection},
   author={Wang, Yizhen and Han, Qi and Zhao, Guanyi and Li, Minghui and Zhan, Dechen and Li, Qiong},
@@ -27,10 +28,11 @@ If you use these models in your research, please cite:
   year={2022},
   publisher={Wiley Online Library}
 }
+```
 
 ### Overview of network
 <div align="center">
-  <img src="https://github.com/WYZ-HIT/MADRN/tree/main/figures/architecture.pdf" width="900px">
+  <img src="https://github.com/WYZ-HIT/MADRN/tree/main/figures/architecture.png" width="900px">
 </div>
 <p align="center">
   Figure 1: The architecture of MADRN.
