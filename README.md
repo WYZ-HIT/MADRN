@@ -30,7 +30,7 @@ If you use these models in your research, please cite:
 
 ### Overview of network
 <div align="center">
-  <img src="https://github.com/Eli-YiLi/ScaleNet/blob/master/figures/architecture.pdf" width="900px">
+  <img src="https://github.com/WYZ-HIT/MADRN/tree/main/figures/architecture.pdf" width="900px">
 </div>
 <p align="center">
   Figure 1: The architecture of MADRN.
