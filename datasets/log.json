@@ -1,0 +1,2 @@
+{"filename": "20210409-17", "n_samples": 10000, "n_features": 400, "target_type": "multi", "cpa_range": [450.0, 475.0, 500.0, 525.0, 550.0, 575.0, 600.0, 625.0, 650.0], "data_class": "train", "snr_avg": 0.10982126656076603}
+{"filename": "20210409-18", "n_samples": 3000, "n_features": 400, "target_type": "multi", "cpa_range": [450.0, 475.0, 500.0, 525.0, 550.0, 575.0, 600.0, 625.0, 650.0], "data_class": "test", "snr_avg": -0.692359339243722}
