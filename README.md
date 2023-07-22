@@ -43,7 +43,7 @@ If you use these models in your research, please cite:
 ## Getting started
 #### Datasets
 
-Download or generate the datasets like the given datasets form.
+Download or generate the datasets like the given datasets form, add put them in the in the datasets folder.
 
 The datasets is avaliable at: https://drive.google.com/drive/folders/1p5xO6Ptx5RJnOvCdoH5DmcP3_g1Hu4pA?usp=drive_link
 
