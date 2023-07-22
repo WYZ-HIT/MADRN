@@ -5,7 +5,7 @@ By Yizhen Wang.
 ### Table of Contents
 0. [Introduction](#introduction)
 0. [Citation](#citation)
-0. [Overview of networkh](#overview)
+0. [Overview of network](#overview)
 0. [Getting started](#getting-started)
 
 
